@@ -5,5 +5,5 @@ Popular battleships game in plain Javascript
 * index.html - still in developement 
 
 This can be found on:
-* index.html - http://tondi.pl/battleships/index.html
-* drawingOnly - http://tondi.pl/battleships/drawingOnly.html
+* Not finished part 2 - http://tondi.pl/battleships/index.html
+* drawingOnly - part 1 - finished - http://tondi.pl/battleships/drawingOnly.html
